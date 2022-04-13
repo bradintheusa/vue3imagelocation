@@ -2,6 +2,8 @@
 
 How to reference images in Vue 3
 
+[See Blog Post](https://rightclick.com.au/2022/04/13/loading-images-in-vue-3/)
+
 
 
 > vue3imagelocation@0.0.0 build 
