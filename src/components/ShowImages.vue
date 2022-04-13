@@ -11,7 +11,7 @@ import imgName from "@/assets/img/img_asset.webp" ;
         Loading Images in Vue 3
 
     </h3>
-    <p>This was added to vite.config.ts just so the app id not running the in root folder. </p>
+    <p>This was added to vite.config.ts just so the app is not running the in root folder. </p>
     <pre>
   build: {
     rollupOptions: {
@@ -29,7 +29,7 @@ import imgName from "@/assets/img/img_asset.webp" ;
       <img src="/subfolder/images/img_pub.webp" alt="Public Img"> 
     </p>
     <p>
-     Importinf the image does work and it's the onlt way
+     Importing the image does work and it's the only way
      <pre>
        import imgName from "@/assets/img/img_asset.webp" ;
        &lt;img :src=&quot;imgName&quot; alt=&quot;SRC Img&quot;&gt;
